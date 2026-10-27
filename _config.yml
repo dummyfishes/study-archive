@@ -1,0 +1,5 @@
+
+title: "The Study Archive"
+description: "A quiet corner for learning and growing."
+markdown: kramdown
+permalink: /:categories/:title/
